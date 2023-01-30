@@ -1,0 +1,126 @@
+{
+	"info": {
+		"_postman_id": "64f22535-7f0c-4214-855e-44cdd5f7dd0f",
+		"name": "Requisições Pessoas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18581924"
+	},
+	"item": [
+		{
+			"name": "Get All Pessoas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/pessoas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pessoas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Id Pessoas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/pessoas/5ed7e87d-6107-484a-a4b7-c22d721397ae",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pessoas",
+						"5ed7e87d-6107-484a-a4b7-c22d721397ae"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Pessoas",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Maria\",\r\n    \"cpf\": 25646559473,\r\n    \"rg\": \"98.211.152-47\",\r\n    \"dataNasc\": \"2001-12-03T10:15:30\",\r\n    \"estadoCiv\": \"Solteira\",\r\n    \"tel\": 1125215475,\r\n    \"email\": \"maria@gmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/pessoas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pessoas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put Pessoas",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Maria Rosa\",\r\n    \"cpf\": 25646559473,\r\n    \"rg\": \"98.211.152-47\",\r\n    \"dataNasc\": \"2001-12-03T10:15:30\",\r\n    \"estadoCiv\": \"Casada\",\r\n    \"tel\": 1125215475,\r\n    \"email\": \"mariaAtualizada@gmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/pessoas/8891b896-779d-4177-acb1-db610d1d0007",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pessoas",
+						"8891b896-779d-4177-acb1-db610d1d0007"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Pessoas",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/pessoas/7aa1c497-b1d5-49a9-92c3-763ac23edd94",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"pessoas",
+						"7aa1c497-b1d5-49a9-92c3-763ac23edd94"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
