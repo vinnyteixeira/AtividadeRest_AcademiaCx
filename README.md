@@ -29,7 +29,7 @@ Para instalar o <Atividade Rest AcademiaCx>, siga estas etapas:
 
 Windows:
 ```
-<git clone https://github.com/vinnyteixeira/AtividadeRest_AcademiaCx.git>
+git clone https://github.com/vinnyteixeira/AtividadeRest_AcademiaCx.git
 ```
 
 ## ☕ Usando <Atividade Rest AcademiaCx>
