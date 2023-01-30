@@ -38,17 +38,19 @@ Para usar <tividade Rest AcademiaCx>, siga estas etapas:
 ```
 Cole o comando em seu terminal e faça o clone, após isso abra o projeto com sua IDE de preferencia e execute o projeto.
 
-![image](https://user-images.githubusercontent.com/87780451/215506490-a3487d68-94e0-4166-906a-019ae0fb2702.png)
+  ![Anotação 2023-01-30 114309](https://user-images.githubusercontent.com/87780451/215508521-fa63a2d6-f21a-4cbd-9eec-d8246ff245a1.png)
+
 
 Dentro do arquivo clonado, entre na pasta <RequisicoesRest> e clique com o botão direito em cima de <Requisições Pessoas>.
 
 Selecione Abrir com e procure seu aplicativo Postman onde foi instalado.
 
-![image](https://user-images.githubusercontent.com/87780451/215507857-e90b3753-d32d-481b-a762-154785450334.png)
+![Anotação 2023-01-30 114422](https://user-images.githubusercontent.com/87780451/215508708-71c723c8-5baa-4636-95df-08e2399a9f01.png)
+
 
 Pronto, sinta se livre para executar as requisições.
 
 ```
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](Atividade Rest AcademiaCx)<br>
