@@ -35,7 +35,7 @@ Windows:
 
 Para usar <tividade Rest AcademiaCx>, siga estas etapas:
 
-```
+
 Cole o comando em seu terminal e faça o clone, após isso abra o projeto com sua IDE de preferencia e execute o projeto.
 
   ![Anotação 2023-01-30 114309](https://user-images.githubusercontent.com/87780451/215508521-fa63a2d6-f21a-4cbd-9eec-d8246ff245a1.png)
@@ -50,7 +50,7 @@ Selecione Abrir com e procure seu aplicativo Postman onde foi instalado.
 
 Pronto, sinta se livre para executar as requisições.
 
-```
+
 
 
 [⬆ Voltar ao topo](Atividade Rest AcademiaCx)<br>
