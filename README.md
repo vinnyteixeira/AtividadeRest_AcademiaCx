@@ -8,7 +8,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="![image](https://user-images.githubusercontent.com/87780451/215504948-7f00cfc3-5747-4cc0-b9d4-d80644a58097.png)" alt="imagem postman">
+![Anotação 2023-01-30 114558](https://user-images.githubusercontent.com/87780451/215509139-664fab22-af40-4fe2-9262-4d0c561b956b.png)
+
 
 Atividade para exercitar conceitos REST.
 
